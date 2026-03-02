@@ -1,0 +1,7 @@
+{
+    "download_folder": "C:\\Users\\ziyan_3562qib\\Downloads",
+    "max_concurrent": 3,
+    "auto_convert_mp3": false,
+    "filename_template": "%(title)s.%(ext)s",
+    "theme": "dark"
+}
